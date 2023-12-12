@@ -5,7 +5,7 @@ An External ImGui modmenu for android.
 ## Features
 - Built with [ImGUI](https://github.com/ocornut/imgui).
 - Memory Tools for Unreal Engine games
-- Math for Unreal Engine games
+- Math & Structs for Unreal Engine games
 
 ## To-Do
 - implement ptrace to hook and call functions externally
@@ -16,11 +16,12 @@ The following dependencies are required to build the library from source.
 - [APK Easy Tools](https://forum.xda-developers.com/android/software-hacking/tool-apk-easy-tool-v1-02-windows-gui-t3333960).
 - Any text editor. We use [Notepad++](https://notepad-plus-plus.org/).
 
-For AIDE users (I'm not sure if this works 100%).
-- [AIDE CMods](https://secufiles.com/nE9J/AIDE_CMODs_3.2.200108.apk).
-- [NDK AIDE for arm32](https://www.mediafire.com/file/62l4gcxqsqtxy20/ndk_arm.tar.gz/file).
-- [NDK AIDE for arm64](https://www.mediafire.com/file/w56tbt9pmqxzmpu/ndk_arm64.tar.gz/file).
-- [APK Tool M](https://maximoff.su/apktool)
+For AIDE users.
+- [AIDE Download](https://cdn.discordapp.com/attachments/1059996036069871686/1181367274955882516/base.apk).
+- [AIDE NDK arm64](https://cdn.discordapp.com/attachments/1059996036069871686/1181368161883398204/aide_ndk_arm64.tar.gz).
+
+## Usage 
+- [KGO Virtual Space](https://cdn.discordapp.com/attachments/1059996036069871686/1182052573897838683/base.apk).
 
 ## Building the source
 - For AIDE users: Run Project / Build Project
